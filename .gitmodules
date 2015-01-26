@@ -1,0 +1,3 @@
+[submodule "lib/MouseTouchDrag"]
+	path = lib/MouseTouchDrag
+	url = git@github.com:GomaGames/HaxePunk-Mouse-and-Touch-Drag.git
